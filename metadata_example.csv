@@ -1,0 +1,795 @@
+isolate_id,Host,State,Isolation Source,Phylogroup
+SAMN06806377,human,MN,Rectal,B2
+SAMN06806378,human,MN,Rectal,B2
+SAMN06806379,human,MN,Rectal,B2
+SAMN06806380,human,MN,Rectal,B2
+SAMN06806381,human,MN,Rectal,B2
+SAMN06806382,human,MN,Rectal,B2
+SAMN06806383,human,MN,Rectal,B2
+SAMN06806384,human,MN,Rectal,B2
+SAMN06806385,human,MN,Rectal,D
+SAMN06806386,human,MN,Rectal,D
+SAMN06806387,human,MN,Rectal,B1
+SAMN06806388,human,MN,Rectal,B1
+SAMN06806389,human,MN,Rectal,F
+SAMN06806390,human,MN,Rectal,F
+SAMN06806391,human,MN,Rectal,B2
+SAMN06806392,human,MN,Rectal,B2
+SAMN06806393,human,MN,Rectal,B2
+SAMN06806394,human,MN,Rectal,B2
+SAMN06806395,human,MN,Rectal,D
+SAMN06806396,human,MN,Rectal,F
+SAMN06806397,human,MN,Rectal,B2
+SAMN06806398,human,MN,Rectal,B2
+SAMN06806399,human,MN,Rectal,B2
+SAMN06806400,human,MN,Rectal,B2
+SAMN06806401,human,MN,Rectal,B2
+SAMN06806402,human,MN,Rectal,B2
+SAMN06806403,human,MN,Rectal,B2
+SAMN06806404,human,MN,Rectal,B2
+SAMN06806405,human,MN,Rectal,B2
+SAMN06806406,human,MN,Rectal,B2
+SAMN06806407,human,MN,Rectal,B2
+SAMN06806408,human,MN,Rectal,B2
+SAMN06806409,human,MN,Rectal,B2
+SAMN06806410,human,MN,Rectal,B2
+SAMN06806411,human,MN,Rectal,B2
+SAMN06806412,human,MN,Rectal,B2
+SAMN06806413,human,MN,Rectal,B2
+SAMN06806414,human,MN,Rectal,B2
+SAMN06806415,human,MN,Rectal,B2
+SAMN06806416,human,MN,Rectal,B2
+SAMN06806417,human,MN,Rectal,D
+SAMN06806418,human,MN,Rectal,D
+SAMN06806419,human,MN,Rectal,B2
+SAMN06806420,human,MN,Rectal,B2
+SAMN06806421,human,MN,Rectal,B2
+SAMN06806422,human,MN,Rectal,B2
+SAMN06806423,human,MN,Rectal,B2
+SAMN06806424,human,MN,Rectal,B2
+SAMN06806425,human,MN,Rectal,B2
+SAMN06806426,human,MN,Rectal,B2
+SAMN06806427,human,MN,Rectal,B2
+SAMN06806428,human,MN,Rectal,A
+SAMN06806429,human,MN,Rectal,A
+SAMN08623777,human,CA,blood,A
+SAMN08623791,human,CA,blood,B2
+SAMN08623792,human,CA,blood,D
+SAMN08623816,human,CA,blood,Unknown
+SAMN08623819,human,CA,blood,C
+SAMN08623821,human,CA,blood,D
+SAMN08623823,human,CA,blood,A
+SAMN08623829,human,CA,blood,D
+SAMN09981234,human,MO,feces,A
+SAMN09981237,human,MO,feces,D
+SAMN09981238,human,MO,feces,A
+SAMN09981239,human,MO,feces,B1
+SAMN09981242,human,MO,feces,D
+SAMN09981246,human,MO,feces,D
+SAMN09981247,human,MO,feces,B1
+SAMN09981249,human,MO,feces,B1
+SAMN09981254,human,MO,feces,B2
+SAMN09981258,human,MO,feces,A
+SAMN09981263,human,MO,feces,B1
+SAMN09981265,human,MO,feces,B1
+SAMN09981269,human,MO,feces,B2
+SAMN09981270,human,MO,feces,A
+SAMN09981273,human,MO,feces,B2
+SAMN09981279,human,MO,feces,B2
+SAMN09981280,human,MO,feces,B2
+SAMN09981281,human,MO,feces,B2
+SAMN09981285,human,MO,feces,B2
+SAMN09981292,human,MO,feces,B2
+SAMN09981293,human,MO,feces,F
+SAMN09981297,human,MO,feces,B2
+SAMN09981298,human,MO,feces,B2
+SAMN09981302,human,MO,feces,B2
+SAMN09981303,human,MO,feces,B2
+SAMN09981305,human,MO,feces,B1
+SAMN09981307,human,MO,feces,B1
+SAMN09981310,human,MO,feces,B2
+SAMN09981312,human,MO,feces,B2
+SAMN10574722,human,CA,feces,E
+SAMN10620133,human,NY,sepsis,B2
+SAMN10620134,human,NY,sepsis,B1
+SAMN10620135,human,NY,sepsis,B2
+SAMN10620136,human,NY,sepsis,B2
+SAMN10620137,human,NY,sepsis,A
+SAMN10620138,human,NY,sepsis,A
+SAMN10620139,human,NY,sepsis,B2
+SAMN10620140,human,NY,sepsis,B2
+SAMN10620141,human,NY,sepsis,B2
+SAMN10620142,human,NY,sepsis,D
+SAMN10620143,human,NY,sepsis,D
+SAMN10620144,human,NY,sepsis,B1
+SAMN10620145,human,NY,sepsis,A
+SAMN10620146,human,NY,sepsis,B2
+SAMN10620147,human,NY,sepsis,B2
+SAMN10620148,human,NY,sepsis,B2
+SAMN10620149,human,NY,sepsis,B2
+SAMN10620150,human,NY,sepsis,C
+SAMN10620151,human,NY,sepsis,B2
+SAMN10620152,human,NY,sepsis,B2
+SAMN10620153,human,NY,sepsis,B2
+SAMN10620154,human,NY,sepsis,D
+SAMN10620155,human,NY,sepsis,A
+SAMN10620156,human,NY,sepsis,D
+SAMN10620157,human,NY,sepsis,B2
+SAMN10620158,human,NY,sepsis,B2
+SAMN10620159,human,NY,sepsis,A
+SAMN10620160,human,NY,sepsis,B2
+SAMN10620161,human,NY,sepsis,B2
+SAMN10620162,human,NY,sepsis,B2
+SAMN10620163,human,NY,sepsis,D
+SAMN10620164,human,NY,sepsis,B2
+SAMN10620165,human,NY,sepsis,D
+SAMN10722955,human,MO,Rectal,B2
+SAMN10722956,human,MO,Rectal,B2
+SAMN10722957,human,MO,Rectal,F
+SAMN10722958,human,MO,Rectal,A
+SAMN10722959,human,MO,Rectal,B2
+SAMN10722960,human,MO,Rectal,B2
+SAMN10722961,human,MO,Rectal,B2
+SAMN10722962,human,MO,Rectal,B2
+SAMN10722963,human,MO,Rectal,A
+SAMN10722964,human,MO,Rectal,B2
+SAMN10722965,human,MO,Rectal,F
+SAMN10722966,human,MO,Rectal,A
+SAMN10722967,human,MO,Rectal,B2
+SAMN11417980,human,PA,feces,B2
+SAMN11417983,human,PA,feces,B2
+SAMN13948677,human,TX,blood,B2
+SAMN13948681,human,TX,blood,A
+SAMN13948684,human,TX,blood,B2
+SRR10003462,ag,SC,Chicken,A
+SRR10030169,ag,MD,Chicken,G
+SRR10049751,ag,TX,Young Chicken,B1
+SRR10049752,ag,GA,Young Chicken,B1
+SRR10087790,ag,SC,Chicken,G
+SRR10087793,ag,SC,Chicken,B1
+SRR10096472,ag,CO,Chicken Legs,F
+SRR10139820,ag,IA,Chicken Breast,D
+SRR10152560,ag,MD,Chicken,B1
+SRR10165180,ag,SD,Chicken Breast,A
+SRR10186367,ag,IA,Chicken Breast,D
+SRR10186368,ag,IA,Chicken Breast,F
+SRR10186981,ag,AR,Young Chicken,D
+SRR10186993,ag,WV,Young Chicken,A
+SRR10192606,ag,OR,Chicken Legs,G
+SRR10192607,ag,OR,Chicken Breast,B1
+SRR10192617,ag,OR,Chicken Breast,A
+SRR10210195,ag,AR,Young Chicken,A
+SRR10210210,ag,GA,Young Chicken,E
+SRR10211803,human,MI,feces,B1
+SRR10211804,human,MI,feces,B1
+SRR10211819,human,MI,feces,E
+SRR10211846,human,MI,feces,B1
+SRR10231212,ag,GA,Chicken Thighs,A
+SRR10232995,ag,MD,Young Chicken,D
+SRR10232996,ag,CA,Young Chicken,D
+SRR10232998,ag,AL,Young Chicken,G
+SRR10232999,ag,NC,Young Chicken,D
+SRR10233000,ag,MO,Young Chicken,A
+SRR10240836,human,MI,feces,D
+SRR10257967,human,MI,feces,D
+SRR10257971,human,MI,feces,B1
+SRR10257975,human,MI,feces,D
+SRR10258334,ag,MD,Chicken,B1
+SRR10258390,ag,MD,Chicken,G
+SRR10258391,ag,MD,Chicken,B1
+SRR10267793,ag,OR,Chicken Thighs,B1
+SRR10267809,ag,OR,Chicken Breast,clade I
+SRR10267823,ag,OR,Chicken Wings,B1
+SRR10274361,human,KY,feces,B1
+SRR10274362,human,KY,feces,E
+SRR10274364,human,KY,feces,B1
+SRR10274365,human,KY,feces,B1
+SRR10274366,human,KY,feces,E
+SRR10294224,ag,SC,Chicken,D
+SRR10302651,ag,CO,Chicken Breast,D
+SRR10302655,ag,SC,Chicken,A
+SRR10313612,ag,OR,Chicken Breast,A
+SRR10340893,ag,CO,Chicken Breast,D
+SRR10340896,ag,CO,Chicken Breast,D
+SRR10343275,ag,AL,Young Chicken,B1
+SRR10357431,ag,IA,Chicken Breast,B2
+SRR10357560,ag,IA,Chicken Breast,A
+SRR10360399,ag,MD,Chicken,A
+SRR10375680,ag,CO,Chicken Breast,B1
+SRR10375681,ag,CO,Chicken Breast,B1
+SRR10375682,ag,CO,Chicken Breast,B1
+SRR10380841,ag,CO,Chicken Breast,D
+SRR10380847,ag,CO,Chicken Breast,C
+SRR10380934,ag,CO,Chicken Breast,B1
+SRR10423321,ag,AR,Young Chicken,G
+SRR10423353,ag,AR,Young Chicken,B1
+SRR10434787,ag,GA,Young Chicken,D
+SRR10434788,ag,NC,Young Chicken,B1
+SRR10434792,ag,TX,Young Chicken,B1
+SRR10434796,ag,GA,Young Chicken,A
+SRR10434802,ag,AL,Young Chicken,B1
+SRR10434806,ag,AR,Young Chicken,B1
+SRR10479202,ag,OR,Chicken Wings,A
+SRR10482423,ag,MD,Chicken,B1
+SRR10482427,ag,MD,Chicken,D
+SRR10501701,ag,IA,Chicken Breast,A
+SRR10501738,ag,SD,Chicken Breast,G
+SRR10503791,ag,AR,Young Chicken,D
+SRR10503792,ag,GA,Young Chicken,B1
+SRR10503796,ag,NC,Young Chicken,D
+SRR10513405,ag,OR,Chicken Breast,B1
+SRR10541929,ag,GA,Chicken Breast,B1
+SRR10569361,ag,SC,Chicken,B1
+SRR10579906,ag,IA,Chicken Breast,E
+SRR10579909,ag,CA,Chicken Whole - cut in lab,F
+SRR10579910,ag,KS,Chicken Wings,A
+SRR10579919,ag,SD,Chicken Thighs,A
+SRR10579920,ag,CA,Chicken Whole - cut in lab,B1
+SRR10579921,ag,SD,Chicken Legs,E
+SRR10579931,ag,CA,Chicken Breast,B1
+SRR10579934,ag,TX,Chicken Whole - cut in lab,D
+SRR10579941,ag,TN,Chicken Breast,B2
+SRR10579945,ag,KS,Chicken Thighs,B1
+SRR10579946,ag,KS,Chicken Wings,B1
+SRR10579947,ag,KS,Chicken Thighs,G
+SRR10579948,ag,KS,Chicken Wings,C
+SRR10579952,ag,CA,Chicken Whole - cut in lab,B1
+SRR10579954,ag,CA,Chicken Whole - cut in lab,B2
+SRR10579955,ag,CA,Chicken Breast,B1
+SRR10579956,ag,CA,Chicken Breast,B1
+SRR10579965,ag,SD,Chicken Thighs,B2
+SRR10579981,ag,IA,Chicken Breast,C
+SRR10579982,ag,IA,Chicken Whole - cut in lab,D
+SRR10579992,ag,IA,Chicken Mixed Parts,A
+SRR10579993,ag,IA,Chicken Whole - cut in lab,E or clade I
+SRR10612320,ag,AL,Young Chicken,B1
+SRR10612328,ag,NC,Young Chicken,A
+SRR10612331,ag,AL,Young Chicken,A
+SRR10612332,ag,MS,Young Chicken,A
+SRR10614290,ag,TX,Young Chicken,B1
+SRR10614309,ag,TX,Young Chicken,B1
+SRR10614310,ag,KS,Chicken Thighs,B1
+SRR10687689,ag,CA,Chicken Breast,F
+SRR10687692,ag,KS,Chicken Wings,D
+SRR10687693,ag,KS,Chicken Wings,B2
+SRR10687694,ag,KS,Chicken Legs,B1
+SRR10687695,ag,TN,Chicken Thighs,G
+SRR10687704,ag,KS,Chicken Thighs,B1
+SRR10687714,ag,KS,Chicken Thighs,F
+SRR10687715,ag,KS,Chicken Thighs,B1
+SRR10687720,ag,KS,Chicken Wings,clade I
+SRR10687721,ag,KS,Chicken Legs,D
+SRR10687722,ag,TN,Chicken Breast,E
+SRR10687726,ag,NC,Chicken Thighs,F
+SRR10687730,ag,SC,Chicken Thighs,C
+SRR10687733,ag,SC,Chicken Breast,B1
+SRR10687734,ag,TN,Chicken Wings,B1
+SRR10687742,ag,NC,Chicken Whole - cut in lab,G
+SRR10687754,ag,NC,Chicken Legs,A
+SRR10687755,ag,MD,Chicken Wings,G
+SRR10687764,ag,CA,Chicken Mixed Parts,G
+SRR10687770,ag,CA,Chicken Breast,D
+SRR10687772,ag,GA,Chicken Breast,G
+SRR10687783,ag,GA,Chicken Mixed Parts,B1
+SRR10687784,ag,GA,Chicken Thighs,A
+SRR10687785,ag,TX,Chicken Whole - cut in lab,B1
+SRR10687791,ag,NC,Chicken Breast,A
+SRR10687797,ag,TX,Chicken Wings,B1
+SRR10687800,ag,TX,Chicken Wings,A
+SRR10687802,ag,CA,Chicken Breast,A
+SRR10687807,ag,NC,Chicken Thighs,B1
+SRR10687808,ag,CA,Chicken Mixed Parts,A
+SRR10687809,ag,TN,Chicken Wings,G
+SRR10687815,ag,MD,Chicken Breast,B2
+SRR10687822,ag,TN,Chicken Breast,A
+SRR10687828,ag,TN,Chicken Breast,D
+SRR10687829,ag,PA,Chicken Breast,B2
+SRR10687832,ag,TN,Chicken Breast,B2
+SRR10687838,ag,TN,Chicken Whole - cut in lab,D
+SRR10687840,ag,TN,Chicken Breast,B2
+SRR10687841,ag,GA,Chicken Wings,B1
+SRR10687851,ag,GA,Chicken Thighs,B1
+SRR10687852,ag,MD,Chicken Legs,G
+SRR10687864,ag,IA,Chicken Legs,D
+SRR10687874,ag,TX,Chicken Whole - cut in lab,B1
+SRR10687877,ag,IA,Chicken Thighs,G
+SRR10687879,ag,IA,Chicken Breast,G
+SRR10687886,ag,CA,Chicken Breast,F
+SRR10687887,ag,IA,Chicken Thighs,B1
+SRR10687899,ag,IA,Chicken Breast,B1
+SRR10687900,ag,CA,Chicken Breast,A
+SRR10687907,ag,CA,Chicken Breast,C
+SRR10687908,ag,CA,Chicken Whole - cut in lab,G
+SRR10687909,ag,GA,Chicken Breast,D
+SRR10687914,ag,SD,Chicken Legs,B1
+SRR10687915,ag,TN,Chicken Breast,A
+SRR10687918,ag,TX,Chicken Legs,B1
+SRR10687922,ag,TX,Chicken Breast,B2
+SRR10687934,ag,NC,Young Chicken,C
+SRR10687937,ag,TX,Chicken Whole - cut in lab,B1
+SRR10687950,ag,TX,Chicken Breast,G
+SRR10687951,ag,SC,Chicken Thighs,B1
+SRR10687969,ag,SD,Chicken Thighs,G
+SRR10687970,ag,GA,Chicken Breast,G
+SRR10687980,ag,SC,Chicken Breast,A
+SRR10687981,ag,SC,Chicken Breast,D
+SRR10687982,ag,SC,Chicken Wings,A
+SRR10687983,ag,SC,Chicken Thighs,clade I
+SRR10687985,ag,IA,Chicken Breast,B1
+SRR10687986,ag,IA,Chicken Breast,D
+SRR10687987,ag,GA,Chicken Mixed Parts,B1
+SRR10687988,ag,GA,Chicken Legs,B2
+SRR10687989,ag,GA,Chicken Breast,B1
+SRR10687993,ag,CA,Chicken Legs,G
+SRR10687997,ag,NC,Chicken Breast,B1
+SRR10687998,ag,NC,Chicken Legs,G
+SRR10691579,ag,MD,Young Chicken,A
+SRR10691586,ag,GA,Young Chicken,B1
+SRR10691606,ag,AR,Young Chicken,E
+SRR10691608,ag,DE,Young Chicken,D
+SRR10721721,ag,AR,Young Chicken,A
+SRR10728214,human,PA,blood,B2
+SRR10728218,human,PA,blood,B1
+SRR10769380,ag,GA,Chicken Wings,B1
+SRR10769381,ag,GA,Chicken Wings,A
+SRR10804773,ag,CA,Young Chicken,B1
+SRR10805089,ag,SC,Young Chicken,E or clade I
+SRR10805093,ag,DE,Young Chicken,D
+SRR10805131,ag,GA,Young Chicken,D
+SRR10820755,ag,OR,Chicken Breast,A
+SRR10873254,ag,MO,Young Chicken,B1
+SRR10873255,ag,MS,Young Chicken,A
+SRR10877316,ag,MD,Chicken,G
+SRR10880541,ag,SC,Young Chicken,B1
+SRR10880553,ag,NC,Young Chicken,A
+SRR10880562,ag,AR,Young Chicken,B1
+SRR10880563,ag,VA,Young Chicken,F
+SRR10883485,ag,MD,Chicken,B2
+SRR10885130,ag,SC,Chicken,B2
+SRR10885203,ag,SC,Chicken,C
+SRR10886934,ag,OR,Chicken Breast,B1
+SRR10951937,ag,OR,Chicken,A
+SRR10959112,ag,GA,Chicken Wings,B1
+SRR10963142,ag,IA,Chicken Breast,B1
+SRR10963372,ag,IA,Chicken Breast,B1
+SRR10992706,ag,CA,Chicken Wings,B1
+SRR11089509,ag,SC,Chicken,G
+SRR11101226,ag,NC,Chicken Breast,B1
+SRR11101230,ag,NC,Chicken Thighs,B1
+SRR11101234,ag,NC,Chicken Wings,A
+SRR11101241,ag,NC,Chicken Breast,A
+SRR11101313,ag,NC,Chicken Breast,G
+SRR11101324,ag,NC,Chicken Breast,B1
+SRR11106939,ag,OR,Chicken,D
+SRR11106941,ag,OR,Chicken,E
+SRR11106942,ag,OR,Chicken,A
+SRR11106944,ag,OR,Chicken,B1
+SRR11126575,ag,IA,Chicken Breast,D
+SRR11126585,ag,IA,Chicken Breast,F
+SRR11126589,ag,IA,Chicken Breast,B1
+SRR11174251,human,TX,bacteremia,D
+SRR11215644,ag,MD,Chicken,B1
+SRR11215653,ag,MD,Chicken,B1
+SRR11215654,ag,MD,Chicken,D
+SRR11243744,ag,SC,Chicken,E
+SRR11276725,ag,GA,Chicken,B1
+SRR11298946,ag,GA,Chicken,B1
+SRR11298947,ag,GA,Chicken,B1
+SRR11304995,ag,SC,Chicken,G
+SRR11322143,ag,GA,Chicken,clade I
+SRR11349398,ag,SC,Chicken,C
+SRR11357735,ag,GA,Chicken,A
+SRR11357737,ag,GA,Chicken,B1
+SRR11393809,ag,SC,Chicken,C
+SRR11424111,ag,GA,Chicken,A
+SRR5642057,human,TX,bacteremia,B2
+SRR5642058,human,TX,bacteremia,B2
+SRR5642059,human,TX,bacteremia,B2
+SRR5642060,human,TX,bacteremia,D
+SRR5642061,human,TX,bacteremia,B2
+SRR5642063,human,TX,bacteremia,D
+SRR5642065,human,TX,bacteremia,B2
+SRR5642066,human,TX,bacteremia,B2
+SRR5642077,human,TX,bacteremia,B2
+SRR5642078,human,TX,bacteremia,A
+SRR5642082,human,TX,bacteremia,B2
+SRR5642117,human,TX,bacteremia,A
+SRR5642121,human,TX,bacteremia,B2
+SRR5642123,human,TX,bacteremia,A
+SRR5642124,human,TX,bacteremia,B2
+SRR5642125,human,TX,bacteremia,B2
+SRR6286460,human,MI,feces,E
+SRR6329089,human,MI,feces,B1
+SRR6505196,human,MI,feces,E
+SRR6505199,human,MI,feces,B1
+SRR6505201,human,MI,feces,E
+SRR6505208,human,MI,feces,E
+SRR6505212,human,MI,feces,E
+SRR6505213,human,MI,feces,E
+SRR6505214,human,MI,feces,E
+SRR6505215,human,MI,feces,B1
+SRR6505216,human,MI,feces,E
+SRR6505217,human,MI,feces,E
+SRR6505237,human,MI,feces,E
+SRR6505238,human,MI,feces,E
+SRR6505241,human,MI,feces,E
+SRR6505242,human,MI,feces,B1
+SRR6505263,human,MI,feces,E
+SRR6505265,human,MI,feces,E
+SRR6505267,human,MI,feces,B1
+SRR6505280,human,MI,feces,B1
+SRR6505283,human,MI,feces,B1
+SRR6505285,human,MI,feces,E
+SRR6505286,human,MI,feces,E
+SRR6505287,human,MI,feces,E
+SRR6505288,human,MI,feces,B2
+SRR6505290,human,MI,feces,B2
+SRR6671802,human,MI,feces,E
+SRR6671821,human,MI,feces,B1
+SRR6671862,human,MI,feces,E
+SRR6671863,human,MI,feces,E
+SRR6671864,human,MI,feces,E
+SRR6671865,human,MI,feces,B1
+SRR6671867,human,MI,feces,E
+SRR6671868,human,MI,feces,E
+SRR6892677,human,NY,feces,D
+SRR6892678,human,NY,feces,F
+SRR6892680,human,NY,feces,D
+SRR6892681,human,NY,feces,B2
+SRR6892682,human,NY,feces,B1
+SRR6892685,human,NY,feces,D
+SRR6892686,human,NY,feces,C
+SRR6892691,human,NY,feces,C
+SRR6892696,human,NY,feces,D
+SRR6892700,human,NY,feces,D
+SRR6892701,human,NY,feces,D
+SRR6892703,human,NY,feces,G
+SRR6892704,human,NY,feces,D
+SRR6892705,human,NY,feces,D
+SRR6892713,human,NY,feces,A
+SRR6892715,human,NY,feces,G
+SRR6892716,human,NY,feces,B2
+SRR6892719,human,NY,feces,D
+SRR6892720,human,NY,feces,G
+SRR6892725,human,NY,feces,E
+SRR6892726,human,NY,feces,D
+SRR6892728,human,NY,feces,D
+SRR6892729,human,NY,feces,D
+SRR6892730,human,NY,feces,E
+SRR6892732,human,NY,feces,B2
+SRR6892733,human,NY,feces,B2
+SRR6892742,human,NY,feces,D
+SRR6892743,human,NY,feces,D
+SRR6892747,human,NY,feces,A
+SRR6892748,human,NY,feces,D
+SRR6892759,human,NY,feces,B2
+SRR6892760,human,NY,feces,A
+SRR6892764,human,NY,feces,B2
+SRR6892769,human,NY,Rectal,E
+SRR6892772,human,NY,feces,B2
+SRR6892775,human,NY,feces,F
+SRR6892776,human,NY,feces,C
+SRR6892792,human,NY,feces,F
+SRR6892798,human,NY,feces,F
+SRR6892807,human,NY,Rectal,F
+SRR7296756,human,PA,blood,B2
+SRR7296757,human,PA,blood,B2
+SRR7296867,human,PA,blood,B2
+SRR7296899,human,PA,blood,D
+SRR7297104,human,PA,blood,D
+SRR7297174,human,PA,blood,D
+SRR7297258,human,PA,blood,B2
+SRR7297264,human,PA,blood,B2
+SRR7297319,human,PA,blood,B2
+SRR7297320,human,PA,blood,D
+SRR7297490,human,PA,blood,B2
+SRR7297606,human,PA,blood,B2
+SRR7690501,human,MI,feces,E
+SRR7690504,human,MI,feces,E
+SRR7690508,human,MI,feces,E
+SRR7690512,human,MI,feces,E
+SRR7690513,human,MI,feces,E
+SRR7749292,human,MI,feces,B1
+SRR7749329,human,MI,feces,E
+SRR7749334,human,MI,feces,E
+SRR7749336,human,MI,feces,E
+SRR8106732,human,MI,feces,E
+SRR8106734,human,MI,feces,E
+SRR8106735,human,MI,feces,E
+SRR8106737,human,MI,feces,E
+SRR8106738,human,MI,feces,E
+SRR8106739,human,MI,feces,E
+SRR8106740,human,MI,feces,E
+SRR8106742,human,MI,feces,E
+SRR8112638,human,MI,feces,E
+SRR8112644,human,MI,feces,E
+SRR8112795,human,MI,feces,E
+SRR8198772,human,PA,blood,B2
+SRR8198774,human,PA,blood,B2
+SRR8199037,human,PA,blood,B2
+SRR8236038,human,MI,feces,E
+SRR8236042,human,MI,feces,E
+SRR8397554,ag,CA,Chicken,G
+SRR8423788,ag,DE,Chicken,C
+SRR8423789,ag,DE,Chicken,B1
+SRR8423790,ag,DE,Chicken,A
+SRR8423918,ag,DE,Chicken,A
+SRR8423925,ag,DE,Chicken,C
+SRR8424018,ag,DE,Chicken,G
+SRR8424019,ag,DE,Chicken,G
+SRR8424021,ag,DE,Chicken,B1
+SRR8424022,ag,DE,Chicken,C
+SRR8424026,ag,DE,Chicken,B1
+SRR8436125,ag,AL,Young Chicken,A
+SRR8436150,ag,WV,Young Chicken,D
+SRR8464763,ag,MS,Young Chicken,E
+SRR8486807,human,MI,feces,E
+SRR8486810,human,MI,feces,E
+SRR8501645,human,MI,feces,E
+SRR8501657,human,MI,feces,B1
+SRR8501660,human,MI,feces,B1
+SRR8501661,human,MI,feces,B1
+SRR8502554,ag,CA,Young Chicken,A
+SRR8502593,ag,SC,Young Chicken,B2
+SRR8543120,ag,TX,Young Chicken,A
+SRR8573686,human,MI,feces,B1
+SRR8573692,human,MI,feces,B1
+SRR8590652,ag,DE,Chicken,G
+SRR8590736,ag,DE,Chicken,E
+SRR8590836,human,MI,feces,E
+SRR8590839,ag,DE,Chicken,B2
+SRR8590847,ag,DE,Chicken,B2
+SRR8590852,human,MI,feces,E
+SRR8590877,ag,DE,Chicken,A
+SRR8590884,ag,DE,Chicken,A
+SRR8599156,ag,AR,Young Chicken,B2
+SRR8606443,ag,DE,Young Chicken,B1
+SRR8606450,ag,MO,Young Chicken,A
+SRR8606459,ag,AR,Young Chicken,G
+SRR8606463,ag,TX,Young Chicken,G
+SRR8649798,ag,TX,Young Chicken,A
+SRR8649926,ag,TN,Young Chicken,B1
+SRR8649940,ag,WV,Young Chicken,G
+SRR8649950,ag,MO,Young Chicken,A
+SRR8649969,ag,GA,Young Chicken,D
+SRR8649971,ag,GA,Young Chicken,D
+SRR8649972,ag,TN,Young Chicken,A
+SRR8649978,ag,VA,Young Chicken,B1
+SRR8676714,ag,AL,Chicken,C
+SRR8676725,ag,PA,Chicken,B1
+SRR8723155,ag,AR,Young Chicken,A
+SRR8754957,ag,AR,Young Chicken,D
+SRR8784426,ag,MO,Young Chicken,A
+SRR8784428,ag,MS,Young Chicken,D
+SRR8784430,ag,AL,Young Chicken,B1
+SRR8784432,ag,MS,Young Chicken,A
+SRR8784433,ag,TN,Young Chicken,F
+SRR8784442,ag,GA,Young Chicken,G
+SRR8838479,ag,GA,Young Chicken,B1
+SRR8838500,ag,AL,Young Chicken,B1
+SRR8838502,ag,MO,Young Chicken,F
+SRR8838606,ag,AR,Young Chicken,A
+SRR8839658,ag,GA,Young Chicken,D
+SRR8839672,ag,AR,Young Chicken,D
+SRR8844663,human,MO,feces,B2
+SRR8844664,human,MO,feces,B2
+SRR8844666,human,MO,feces,B2
+SRR8844667,human,MO,feces,B2
+SRR8844670,human,MO,feces,B2
+SRR8844671,human,MO,feces,B2
+SRR8844674,human,MO,feces,B2
+SRR8844675,human,MO,feces,B2
+SRR8844677,human,MO,feces,B2
+SRR8844680,human,MO,feces,B2
+SRR8844684,human,MO,feces,B2
+SRR8844685,human,MO,feces,B2
+SRR8844686,human,MO,feces,B2
+SRR8844687,human,MO,feces,B2
+SRR8844694,human,MO,feces,B2
+SRR8844697,human,MO,feces,B2
+SRR8844706,human,MO,feces,B2
+SRR8844707,human,MO,feces,B2
+SRR8844708,human,MO,feces,B2
+SRR8844709,human,MO,feces,B2
+SRR8844722,human,MO,feces,B2
+SRR8844725,human,MO,feces,D
+SRR8844728,human,MO,feces,B2
+SRR8844729,human,MO,feces,B2
+SRR8844732,human,MO,feces,B2
+SRR8844733,human,MO,feces,B2
+SRR8844736,human,MO,feces,B2
+SRR8844737,human,MO,feces,B2
+SRR8844739,human,MO,feces,B2
+SRR8844745,human,MO,feces,B2
+SRR8844746,human,MO,feces,B2
+SRR8844747,human,MO,feces,B2
+SRR8844748,human,MO,feces,B2
+SRR8844753,human,MO,feces,B2
+SRR8844755,human,MO,feces,B2
+SRR8844756,human,MO,feces,B2
+SRR8844758,human,MO,feces,D
+SRR8844761,human,MO,feces,D
+SRR8844762,human,MO,feces,D
+SRR8844763,human,MO,feces,D
+SRR8844766,human,MO,feces,B2
+SRR8844767,human,MO,feces,B2
+SRR8902416,ag,AL,Young Chicken,A
+SRR8902434,ag,NC,Young Chicken,A
+SRR8902437,ag,TX,Young Chicken,A
+SRR8902468,ag,AL,Young Chicken,A
+SRR8902519,ag,MS,Young Chicken,D
+SRR8923472,ag,MS,Young Chicken,G
+SRR8923479,ag,NC,Young Chicken,A
+SRR8923481,ag,GA,Young Chicken,B1
+SRR8923482,ag,AR,Young Chicken,B2
+SRR8950113,ag,CA,Young Chicken,A
+SRR8950280,ag,AL,Young Chicken,A
+SRR8995997,ag,AL,Young Chicken,B1
+SRR8996022,ag,VA,Young Chicken,A
+SRR8996054,ag,AL,Young Chicken,A
+SRR8996696,ag,NC,Young Chicken,A
+SRR9037370,ag,GA,Young Chicken,B2
+SRR9037377,ag,AR,Young Chicken,A
+SRR9048667,ag,AR,Young Chicken,B1
+SRR9048672,ag,TX,Young Chicken,D
+SRR9049125,ag,TN,Young Chicken,A
+SRR9049478,ag,CA,Young Chicken,G
+SRR9066705,ag,NC,Young Chicken,B1
+SRR9066731,ag,AR,Young Chicken,A
+SRR9066732,ag,MS,Young Chicken,B1
+SRR9066734,ag,AR,Young Chicken,B1
+SRR9066735,ag,DE,Young Chicken,B1
+SRR9090955,human,MI,feces,E
+SRR9091892,human,MI,feces,E
+SRR9105555,ag,MS,Young Chicken,D
+SRR9105601,ag,CA,Young Chicken,G
+SRR9105607,ag,AR,Young Chicken,B1
+SRR9123057,ag,OR,Chicken,B1
+SRR9123270,ag,OR,Chicken,D
+SRR9139840,ag,MS,Young Chicken,B1
+SRR9139847,ag,AR,Young Chicken,B1
+SRR9139850,ag,TX,Young Chicken,B1
+SRR9139855,ag,AL,Young Chicken,B1
+SRR9201947,ag,CA,Young Chicken,D
+SRR9201953,ag,CA,Young Chicken,E
+SRR9201963,ag,AL,Young Chicken,A
+SRR9201966,ag,MS,Young Chicken,A
+SRR9201968,ag,GA,Young Chicken,A
+SRR9202032,ag,AL,Young Chicken,B1
+SRR9262887,ag,DE,Young Chicken,E or clade I
+SRR9265256,ag,GA,Young Chicken,A
+SRR9265257,ag,SC,Young Chicken,E
+SRR9265271,ag,MS,Young Chicken,D
+SRR9265284,ag,WV,Young Chicken,B1
+SRR9265286,ag,MS,Young Chicken,D
+SRR9265296,ag,VA,Young Chicken,B1
+SRR9280678,human,MI,feces,E
+SRR9324324,ag,OR,Chicken Breast,B1
+SRR9324333,ag,OR,Chicken Breast,A
+SRR9324334,ag,OR,Chicken Breast,A
+SRR9331792,ag,AR,Young Chicken,B1
+SRR9331793,ag,AL,Young Chicken,A
+SRR9643044,ag,AL,Young Chicken,A
+SRR9648188,ag,MO,Young Chicken,A
+SRR9648210,ag,GA,Young Chicken,A
+SRR9648316,ag,OR,Chicken Breast,G
+SRR9648319,ag,OR,Chicken Breast,C
+SRR9666364,ag,MD,Chicken,C
+SRR9668660,ag,MO,Young Chicken,A
+SRR9668669,ag,MO,Young Chicken,B1
+SRR9722329,ag,OR,Chicken Breast,B1
+SRR9823006,ag,GA,Young Chicken,B1
+SRR9824428,ag,AR,Young Chicken,A
+SRR9824453,ag,GA,Young Chicken,A
+SRR9852768,ag,CO,Chicken Mixed Parts,B2
+SRR9852771,ag,SD,Chicken Thighs,G
+SRR9852783,ag,SD,Chicken Thighs,A
+SRR9852788,ag,PA,Chicken Breast,A
+SRR9852793,ag,PA,Chicken Legs,G
+SRR9852805,ag,MD,Chicken Legs,clade I
+SRR9852809,ag,OR,Chicken Breast,B2
+SRR9852815,ag,NC,Chicken Wings,A
+SRR9852829,ag,NC,Chicken Thighs,D
+SRR9852833,ag,KS,Chicken Wings,B2
+SRR9852834,ag,IA,Chicken Wings,A
+SRR9852835,ag,IA,Chicken Whole - cut in lab,A
+SRR9852836,ag,KS,Chicken Thighs,B1
+SRR9852837,ag,KS,Chicken Legs,A
+SRR9852838,ag,PA,Chicken Breast,B1
+SRR9852839,ag,PA,Chicken Thighs,A
+SRR9852843,ag,OR,Chicken Wings,clade I
+SRR9860637,ag,SC,Chicken,B1
+SRR9875240,ag,AR,Young Chicken,B1
+SRR9875260,ag,WV,Young Chicken,clade I
+SRR9875266,ag,AR,Young Chicken,B1
+SRR9875318,ag,NC,Young Chicken,B1
+SRR9875323,ag,GA,Young Chicken,A
+SRR9875325,ag,GA,Young Chicken,A
+SRR9879579,human,MI,feces,E
+SRR9942491,ag,AL,Young Chicken,A
+SRR9951123,human,MI,feces,E
+SRR9962774,ag,TX,Young Chicken,D
+SRR9962777,ag,AR,Young Chicken,B1
+SRR9962822,ag,VA,Young Chicken,B1
+SRR9962823,ag,AL,Young Chicken,C
+SRR9973079,ag,NC,Young Chicken,B1
+SRR9973093,ag,NC,Young Chicken,B1
+SRR9984525,ag,KS,Chicken Legs,G
+SRR9984526,ag,CA,Chicken Mixed Parts,D
+SRR9984527,ag,CA,Chicken Legs,B1
+SRR9984532,ag,SC,Chicken Wings,B1
+SRR9984542,ag,GA,Chicken Breast,B1
+SRR9984544,ag,GA,Chicken Breast,E or clade I
+SRR9984545,ag,GA,Chicken Breast,A
+SRR9984548,ag,TX,Chicken Breast,B1
+SRR9984565,ag,TX,Chicken Legs,D
+SRR9984566,ag,OR,Chicken Breast,D
+SRR9984567,ag,GA,Chicken Wings,A
+SRR9984568,ag,GA,Chicken Wings,F
+SRR9984571,ag,CA,Chicken Breast,G
+SRR9984574,ag,CA,Chicken Breast,B1
+SRR9984575,ag,GA,Chicken Wings,B1
+SRR9984592,ag,KS,Chicken Wings,B1
+SRR9984596,ag,CA,Chicken Wings,G
+SRR9984610,ag,NC,Chicken Legs,D
+SRR9984613,ag,MD,Chicken Wings,G
+SRR9984620,ag,PA,Chicken Legs,D
+SRR9984621,ag,PA,Chicken Thighs,B1
+SRR9984628,ag,KS,Chicken Legs,B2
+SRR9984631,ag,SC,Chicken Wings,B1
+SRR9984643,ag,SC,Chicken Thighs,D
+SRR9984652,ag,KS,Chicken Thighs,E
+SRR9984653,ag,KS,Chicken Breast,A
+SRR9984657,ag,NC,Chicken Legs,B2
+SRR9984660,ag,SD,Chicken Thighs,A
+SRR9984662,ag,TX,Chicken Wings,A
+SRR9984667,ag,GA,Chicken Breast,D
+SRR9984668,ag,GA,Chicken Breast,B1
+SRR9984685,ag,IA,Chicken Mixed Parts,B1
+SRR9984691,ag,PA,Chicken Thighs,E
+SRR9984702,ag,IA,Chicken Thighs,A
+SRR9984706,ag,TN,Chicken Wings,B1
+SRR9984708,ag,GA,Chicken Wings,A
+SRR9984713,ag,SD,Chicken Thighs,B1
+SRR9984720,ag,CA,Chicken Wings,B1
+SRR9984729,ag,KS,Chicken Thighs,G
+SRR9984735,ag,SC,Chicken Mixed Parts,G
+SRR9984738,ag,SC,Chicken Breast,F
+SRR9984750,ag,TN,Chicken Wings,A
+SRR9984756,ag,PA,Chicken Thighs,A
+SRR9984763,ag,SC,Chicken Thighs,B1
+SRR9984770,ag,IA,Chicken Legs,B1
+SRR9984773,ag,CA,Chicken Breast,B1
+SRR9984778,ag,TX,Chicken Legs,G
+SRR9984780,ag,TN,Chicken Breast,G
+SRR9984781,ag,PA,Chicken Legs,A
+SRR9984782,ag,TN,Chicken Breast,A
+SRR9984783,ag,TX,Chicken Breast,C
+SRR9984803,ag,TN,Chicken Breast,D
+SRR9984804,ag,PA,Chicken Breast,B1
+SRR9984810,ag,CA,Chicken Breast,B1
+SRR9984812,ag,NC,Chicken Legs,E
+SRR9984813,ag,NC,Chicken Mixed Parts,B2
+SRR9984818,ag,MD,Chicken Breast,B1
+SRR9984824,ag,CA,Chicken Wings,G
+SRR9984828,ag,KS,Chicken Thighs,B1
+SRR9984834,ag,SD,Chicken Thighs,F
+SRR9984847,ag,CA,Chicken Wings,B1
+SRR9984850,ag,CA,Chicken Breast,B2
+SRR9984851,ag,CA,Chicken Breast,B1
+SRR9984857,ag,IA,Chicken Wings,B2
+SRR9984866,ag,GA,Chicken Thighs,F
+SRR9984871,ag,TN,Chicken Breast,G
+SRR9984883,ag,NC,Chicken Legs,A
+SRR9984885,ag,SC,Chicken Thighs,A
+SRR9984886,ag,SC,Chicken Thighs,G
+SRR9984891,ag,TN,Chicken Wings,B1
+SRR9984899,ag,TX,Chicken Breast,A
+SRR9984900,ag,TX,Chicken Breast,C
+SRR9984913,ag,MD,Chicken Thighs,clade I
+SRR9984925,ag,KS,Chicken Thighs,A
+SRR9984928,ag,KS,Chicken Thighs,B2
+SRR9984930,ag,KS,Chicken,B1
+SRR9984932,ag,MD,Chicken Legs,B1
+SRR9984941,ag,TX,Chicken Mixed Parts,B1
+SRR9984944,ag,CA,Chicken Breast,B1

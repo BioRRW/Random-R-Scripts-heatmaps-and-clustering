@@ -45,8 +45,12 @@ metadata <- as.data.frame(read.csv("metadata_794.csv", row.names = 1))
 #rownames(data.t) <- rownames(metadata)
 colnames(metadata)[3] <- "Isolation Source"
 #colnames(metadata)[2] <- "Combined Plasmids"
-heatmap(data)
-pheatmap(data)
+
+### can uncomment to get an idea of what the heatmap will look like
+#heatmap(data)
+#pheatmap(data)
+
+# change legend breaks as you need. ie if you have continuous variables, you may want to change, legend_labels = c("0", "1"), to include more values
 
 pheatmap(
   mat               = data,

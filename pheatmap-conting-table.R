@@ -8,8 +8,8 @@ library(viridis)
 
 # data must be in the format: rownames = isolate, colnames = genes
 # metadata must be in the format: rownames = isolates (*have to be in same order as data rownames), colnames = metadata categories
-data <- as.matrix(read.csv("db_element_ID_vfdb-conting-table.csv", row.names = 1))
-metadata <- as.data.frame(read.csv("metadata_794.csv", row.names = 1))
+data <- as.matrix(read.csv("example_contingency_table.csv", row.names = 1))
+metadata <- as.data.frame(read.csv("metadata_example.csv", row.names = 1))
 
 # for(i in 1:length(colnames(data))){
 #   for(j in 1:length(rownames(data))){
